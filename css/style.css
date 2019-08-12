@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+p { 
+    font-family: Calibri; 
+    font-size: 14px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: bold; 
+    line-height: 20px; 
+    margin: auto;
+}
+
+.win {
+    color: gold;
+}
+
+.hit {
+    color: red;
+}
