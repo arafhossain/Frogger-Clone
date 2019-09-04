@@ -1,8 +1,8 @@
 # Frogger
 
-Welcome to the All-time classic game Frogger!
+Welcome to the All-time classic game Frogger! This game uses DOM-manipulation and object-oriented Javascript to simulate different class-based entities.
 
-Hosted on https://arafhossain.github.io/Frogger-Clone/
+Hosted on gh pages at: https://arafhossain.github.io/Frogger-Clone/
 
 ## Instructions
 
